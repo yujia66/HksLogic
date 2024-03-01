@@ -1,0 +1,8 @@
+############ minpre
+tensor(-9.2767, grad_fn=<MinBackward1>)
+############ maxpre
+tensor(5.8255, grad_fn=<MaxBackward1>)
+############ minpre
+tensor(-1.1617, grad_fn=<MinBackward1>)
+############ maxpre
+tensor(9.5257, grad_fn=<MaxBackward1>)
